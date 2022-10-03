@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 requests-html = "^0.10.0"
+black = "^22.8.0"
+isort = "^5.10.1"
+flake8 = "^5.0.4"
 
 
 [build-system]
